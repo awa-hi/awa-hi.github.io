@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+  }
+.capsule-button {
+    display: inline-block;
+    padding: 30px 50px;
+    border-radius: 30px; /* 控制圆角程度 */
+    background-color: #fefefe;
+    color: #b4adad;
+    border: none;
+    cursor: pointer;
+  }
+  p{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+  
